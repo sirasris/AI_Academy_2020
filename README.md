@@ -23,7 +23,7 @@ Find the dataset and description at [here](https://www.kaggle.com/dataset/b83086
 
 ## **Problem 3: The Tale of Two Wat**
 
-For this problem, you are tasked to develop a machine learning model that takes a photo as input and classify whether that photo contains Wat Prakaew or Wat Po. Gather your dataset from photos on the internet. [Here](https://drive.google.com/open?id=1mdZLeiG0NSR6idRFCs9k_1GAsJ59riDK) are some photos that we expect your model to be able to correctly classify 
+For this problem, you are tasked to develop a machine learning model that takes a photo as input and classify whether that photo contains Wat Prakaew or Wat Po. Gather your dataset from photos on the internet. [Here](https://drive.google.com/open?id=1mdZLeiG0NSR6idRFCs9k_1GAsJ59riDK) are some example photos that you should try to handle.
 
 ---
 
