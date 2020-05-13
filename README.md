@@ -27,5 +27,6 @@ For this problem, you are tasked to develop a machine learning model that takes 
 
 ---
 
-### Post a new issue if you have a question. Check the Q&A policy before posting.
+### If you have a question, post a new issue here rather than emailing our staff. That way everyone will be able to get the same information. 
+### Please read the Q&A policy before posting.
 ### Hand in your answers by May 21st, 2020 at 9pm Bangkok time via email to utc [at] chula.ac.th
