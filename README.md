@@ -10,8 +10,6 @@ You are not expected to understand the meaning of all features. In fact, the nam
 
 This exam consists of 3 problems, each testing you on different aspects of data analysis and machine learning model development. Given the short amount of time, we DO NOT expect you to complete or even attempt all 3 problems. 
 
-### Plan your time wisely and show us what you can do!
-
 ---
 ## **Problem 1: Drug Allergy Prediction**
 
@@ -25,4 +23,7 @@ Find the dataset and description at [here](www.kaggle.com/dataset/b830860b3bd50f
 
 For this problem, you are tasked to develop a machine learning model that takes a photo as input and classify whether that photo contains Wat Prakaew or Wat Po. Gather your dataset from photos on the internet. [Here](https://drive.google.com/open?id=1mdZLeiG0NSR6idRFCs9k_1GAsJ59riDK) are some photos that we expect your model to be able to correctly classify 
 
+---
 
+### Plan your time wisely and show us what you can do!
+## Post a new issue if you have a question. Check the Q&A policy before posting.
