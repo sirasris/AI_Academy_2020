@@ -10,14 +10,16 @@ You are not expected to understand the meaning of all features. In fact, the nam
 
 This exam consists of 3 problems, each testing you on different aspects of data analysis and machine learning model development. Given the short amount of time, we DO NOT expect you to complete or even attempt all 3 problems. 
 
+### Plan your time wisely and show us what you can do!
+
 ---
 ## **Problem 1: Drug Allergy Prediction**
 
-Find the dataset and description [here](www.kaggle.com/dataset/164839c70ca43c870151479e85f496daa3b68be24a93c44fa1cd153c66049bf5)
+Find the dataset and description [here](https://www.kaggle.com/dataset/164839c70ca43c870151479e85f496daa3b68be24a93c44fa1cd153c66049bf5)
 
 ## **Problem 2: Cancer Survival Prediction**
 
-Find the dataset and description at [here](www.kaggle.com/dataset/b830860b3bd50fbe6d2f9448dcb1fd18da025a4ae41208cf4bd557292cac6eab)
+Find the dataset and description at [here](https://www.kaggle.com/dataset/b830860b3bd50fbe6d2f9448dcb1fd18da025a4ae41208cf4bd557292cac6eab)
 
 ## **Problem 3: The Tale of Two Wat**
 
@@ -25,5 +27,5 @@ For this problem, you are tasked to develop a machine learning model that takes 
 
 ---
 
-### Plan your time wisely and show us what you can do!
-## Post a new issue if you have a question. Check the Q&A policy before posting.
+### Post a new issue if you have a question. Check the Q&A policy before posting.
+### Hand in your answers by May 21st, 2020 at 9pm Bangkok time via email to utc [at] chula.ac.th
