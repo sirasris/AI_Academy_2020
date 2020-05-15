@@ -2,6 +2,27 @@
 ## 2nd round screening exam
 
 ---
+
+# IMPORTANT NOTICE
+Due to technical issue, the column descriptions were not included with the data files. So we are providing them here:
+
+## Problem 1:
+* **ELISpot_Control** is the ELISpot test result for the POSITIVE CONTROL (i.e., we expect to see strong response)
+* **ELISpot_Result** is the ELISpot test result for SUSPECTED DRUG (i.e., this is the result that indicate whether the patient would be allergic to that drug)
+* **NARANJO_Category** is ORDINAL.
+* **Exposure_Time** is the amount of times since the patient has taken the drug until the ELISpot test date
+* **Suspicion_Score** is the suspicion level of the drug (1 = suspected drug, 2 = similar to suspected drug, 3 = negative control). This is ORDINAL.
+* **Allergic_Reaction_Group** is the severity of patient's allergic reaction. This is ORDINAL.
+* **Drug_Group** is CATEGORICAL.
+* **Drug_Rechallenge_Result** is the ground truth of this dataset that we want to predict.
+
+## Problem 2:
+* **Time to Event** is the amount of time from the date of data collection until a patient's day of death or until his/her last check-up
+* **Patient Status** is the patient's latest status (0 = alive, 1 = dead)
+* **Patient Status at 3-Year** is the patient's status at 3-year mark (0 = alive, 1 = dead, -1 = unknown)
+* **v_n**'s are radiomics features extracted from ROI drawn by radiologists
+
+---
 This exam intends to mimic a real project situation where you have to clean the data yourself and validate your model’s performance without relying on specified test sets as in normal Kaggle competitions.
 
 Your work will be evaluated on multiple criteria. The final model performance is NOT the most important consideration, but we rather want to see how you approach the tasks and justify design choices made along the way.
