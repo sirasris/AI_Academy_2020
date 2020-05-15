@@ -22,7 +22,7 @@ Due to technical issue, the column descriptions were not included with the data 
 * **Patient Status at 3-Year** is the patient's status at 3-year mark (0 = alive, 1 = dead, -1 = unknown)
 * **v_n**'s are radiomics features extracted from ROI drawn by radiologists
 
-### To clarify, **Time to Event** is the information used to generate **Patient Status at 3-Year** and should NOT be considered as part of the input to your prediction model.
+### To clarify, **Time to Event** is part of the information used to generate **Patient Status at 3-Year** and should NOT be considered as part of the input to your prediction model. The 6 patient characteristics that may be used are: **gender**, **age**, and **clinical A-D**
 
 ---
 This exam intends to mimic a real project situation where you have to clean the data yourself and validate your model’s performance without relying on specified test sets as in normal Kaggle competitions.
